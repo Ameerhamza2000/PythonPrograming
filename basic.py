@@ -16,11 +16,5 @@ print(5+9**2*3-6%4/4)
 #this will throws error
 #print('alice'+5)
 
-#variable are of int float string
-#type conversion int() float() str()
-print(int('9')+5)
-print(float('9.5')+5)
 
-#concatination 
-print('9'+str(5))
 

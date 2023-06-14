@@ -7,13 +7,16 @@ print(27//5)
 
 #we can multiply only a number with string which will give that string that number of times
 print('alice '*5)
-
+print('spamspamspam'*3)
 #oprator precedence as follow brackets () ** %  // / * + -
 
 print ((4+5)/3)
 print(5+9**2*3-6%4/4)
 
+#to find length of a string
+print(len('alice'))
+
 #this will throws error
-#print('alice'+5)
+print('alice'+5)
 
 

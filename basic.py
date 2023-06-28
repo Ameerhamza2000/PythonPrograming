@@ -16,6 +16,7 @@ print(5+9**2*3-6%4/4)
 #to find length of a string
 print(len('alice'))
 
+print("hello world",end="")
 #this will throws error
 print('alice'+5)
 

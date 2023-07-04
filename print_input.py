@@ -2,7 +2,7 @@
 print('Enter your name')
 myName=input()
 
-Name=int(input("enter your second name: "))
+Name=(input("enter your second name: "))
 
 print('Enter your age')
 myAge=int(input())

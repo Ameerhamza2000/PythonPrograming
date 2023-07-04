@@ -1,4 +1,6 @@
 # print()
+print(type(True))
+
 print('Enter your name :')
 
 # input() always take input as string if you enter a number then conversion is required
@@ -11,6 +13,7 @@ myAge = int(input())
 print(type(myName))
 print(type(myAge))
 
+print(len(myName))
 # round() to round a number
 x=round(5.42314)
 print(x)

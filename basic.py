@@ -1,6 +1,9 @@
 #we can use + - * ** / % //
 print(2+2)
 
+spam=0
+spam /=2
+print(spam)
 #this is comment
 #this will ignore floating value
 print(27//5) 

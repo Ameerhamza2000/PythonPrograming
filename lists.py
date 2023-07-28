@@ -24,3 +24,15 @@ print(animals[-8])
 print(multiList[-1])
 print(multiList[-2])
 print(multiList[-2][-1])
+
+print(multiList[2:])
+
+print(multiList*3)
+print(multiList+multiList)
+print(multiList)
+
+name="ameer hamza learning pyhton"
+name1=name.split()
+print(type(name1))
+print(name,sep=",")
+# print(name1.split())

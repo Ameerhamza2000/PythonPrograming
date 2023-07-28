@@ -22,5 +22,3 @@ print(len('alice'))
 print("hello world",end="")
 #this will throws error
 print('alice'+5)
-
-
